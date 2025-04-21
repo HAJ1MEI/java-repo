@@ -1,6 +1,6 @@
 
 package day1;
-public class dataTypes {
+public class DataTypes {
 
     static void bio(){
         int id = 1;
