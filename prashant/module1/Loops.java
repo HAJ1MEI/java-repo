@@ -1,4 +1,4 @@
-package day1;
+package prashant.module1;
 
 public class Loops {
     
@@ -45,13 +45,12 @@ public class Loops {
     }
 
     public static void main(String[] args) {
-        // age();
-        // evenNum();
+        age();
+        evenNum();
 
         //Generate Random Number
         int randomNum = 1 + (int)(Math.random() * 7);
         whichDay(randomNum);
-        
-        
+
     }
 }

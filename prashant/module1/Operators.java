@@ -1,4 +1,4 @@
-package day1;
+package prashant.module1;
 
 public class Operators {
     static void operator(){

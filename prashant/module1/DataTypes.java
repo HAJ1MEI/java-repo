@@ -1,5 +1,5 @@
 
-package day1;
+package prashant.module1;
 public class DataTypes {
 
     static void bio(){
